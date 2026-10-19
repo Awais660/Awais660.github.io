@@ -24,3 +24,4 @@ Open `index.html` in a browser, or:
 - Text/content: `index.html`
 - Colors: CSS variables at the top of `style.css`
 - Photo: `assets/profile.jpg` · CV download: `assets/Muhammad_Awais_CV.pdf`
+- Featured project screenshots: `assets/projects/`

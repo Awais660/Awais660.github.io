@@ -19,7 +19,7 @@ const nav = document.querySelector('.nav');
 window.addEventListener('scroll', () => nav.classList.toggle('scrolled', window.scrollY > 10), { passive: true });
 
 // Typing effect
-const roles = ['Senior Web Developer', 'Team Lead', 'Laravel Developer', 'Node.js Developer', 'API Builder'];
+const roles = ['PHP/Laravel Developer', 'Backend Developer', 'Node.js Developer', 'API Developer', 'Web Application Developer'];
 const typed = document.getElementById('typed');
 let roleIndex = 0, charIndex = roles[0].length, deleting = true;
 function type() {
